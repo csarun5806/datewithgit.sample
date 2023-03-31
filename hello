@@ -1,4 +1,9 @@
 Hello, how are you?
 can we meet tomarrow?
+<<<<<<< HEAD
 no i cant
 sample 1
+=======
+yes we can
+sample 2
+>>>>>>> feature
